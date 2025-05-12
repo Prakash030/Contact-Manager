@@ -28,13 +28,13 @@
 - Select Import
 - Select Projects from Git(with smart import) -> Next
 - Select Clone URI -> Next
-- In URI paste this url: https://github.com/swapnilbamble1438/ContactManager.git
+- In URI paste this url: [https://github.com/swapnilbamble1438/ContactManager.git](https://github.com/Prakash030/Contact-Manager.git)
   -> Next
 -  Now in Local Destination
 
 -  proceed -> Next
 
-            Now only select ContactManager/MySpring_Boot_aa17i_Contact_Manager
+            Now only select Contact-Manager/Contact_Manager
             -> Finish
    
 -  If everything goes right Project will get successfully imported
